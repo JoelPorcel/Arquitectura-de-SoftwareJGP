@@ -1,0 +1,7 @@
+com\mycompany\factorymethod\NotificationFactory.class
+com\mycompany\factorymethod\INotification.class
+com\mycompany\factorymethod\SMSNotification.class
+com\mycompany\factorymethod\FactoryMethod.class
+com\mycompany\factorymethod\EmailCreator.class
+com\mycompany\factorymethod\EmailNotification.class
+com\mycompany\factorymethod\SMSCreator.class
